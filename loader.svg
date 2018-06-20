@@ -8,7 +8,7 @@
         background-position: 468px 0
     }
 }
-.animated-background {
+svg {
     animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
@@ -19,6 +19,5 @@
     background-size: 800px 104px;
     position: relative;
 }
-</style>
-<svg class="animated-background" width="500" height="500"></svg>
+</style> 
 </svg>
